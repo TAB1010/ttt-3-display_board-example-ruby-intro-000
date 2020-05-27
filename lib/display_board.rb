@@ -1,7 +1,1 @@
-board = [" "," "," "," "," "," "," "," "," "]
-display_board(board)
-#    |   |
-# -----------
-#    |   |
-# -----------
-#    |   |   
+display_board = Tic Tac Toe board.
