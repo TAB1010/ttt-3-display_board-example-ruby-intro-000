@@ -1,1 +1,1 @@
-display_board = Tic Tac Toe board.
+display_board = "Tic Tac Toe board"
