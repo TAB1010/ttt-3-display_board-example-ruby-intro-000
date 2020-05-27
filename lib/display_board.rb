@@ -1,1 +1,9 @@
-display_board = "Tic Tac Toe board"
+board = [" "," "," "," "," "," "," "," "," "]
+
+def display_board(board)
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end
